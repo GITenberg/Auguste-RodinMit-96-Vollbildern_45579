@@ -1,0 +1,29 @@
+_repo: Auguste-RodinMit-96-Vollbildern_45579
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45579-h/images/cover_de.jpg
+creator:
+  author:
+    agent_name: Rilke, Rainer Maria
+    birthdate: 1875
+    deathdate: 1926
+    gutenberg_agent_id: '846'
+    url: http://www.gutenberg.org/2009/agents/846
+    wikipedia: http://en.wikipedia.org/wiki/Rainer_Maria_Rilke
+description: ''
+gutenberg_issued: '2014-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45579'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NB'
+- !lcsh 'Rodin, Auguste, 1840-1917'
+title: 'Auguste Rodin
+
+  Mit 96 Vollbildern'
+url: http://www.gutenberg.org/ebooks/45579
